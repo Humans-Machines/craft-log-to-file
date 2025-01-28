@@ -13,7 +13,7 @@
         "plugin"
     ],
     "require": {
-        "craftcms/cms": "^3.0.0",
+        "craftcms/cms": "*",
         "yiisoft/yii2": "^2.0.0"
     },
     "autoload": {
